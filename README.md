@@ -6,6 +6,6 @@
 
 - ![default](screenshot.gif)
 
-- 사이트 주소
+- https://hyundai-sangho.github.io/TypingGame_js/
 
 - 소스 다운로드 후 -> npm install 실행
