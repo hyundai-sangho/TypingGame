@@ -4,6 +4,8 @@
 
 - Vanilla 자바스크립트 타자게임 만들기! 실전코스
 
+- 사용 기술: HTML, CSS, JS
+
 - ![default](screenshot.gif)
 
 - https://hyundai-sangho.github.io/TypingGame_js/
