@@ -6,6 +6,8 @@
 
 - 사용 기술: HTML, CSS, JS
 
+- 단어 api 사용: https://random-word-api.herokuapp.com/word?number=100 
+
 - ![default](screenshot.gif)
 
 - https://hyundai-sangho.github.io/TypingGame_js/
