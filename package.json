@@ -1,0 +1,23 @@
+{
+  "name": "typing_game",
+  "version": "1.0.0",
+  "description": "작성일: 2022년 2월 23일(수)",
+  "main": "index.js",
+  "dependencies": {
+    "tata-js": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyundai-sangho/TypingGame.git"
+  },
+  "author": "chosangho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyundai-sangho/TypingGame/issues"
+  },
+  "homepage": "https://github.com/hyundai-sangho/TypingGame#readme"
+}

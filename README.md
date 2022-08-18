@@ -1,15 +1,13 @@
-- 작성일: 2022년 2월 23일(수)
+# 작성일: 2022년 2월 23일(수)
 
-- https://www.youtube.com/watch?v=_CsGSE5gwTA&list=PLpJDjPqxGWGrSGPUBqWlsJlcLF_grNClK&index=1
+1. <https://www.youtube.com/watch?v=_CsGSE5gwTA&list=PLpJDjPqxGWGrSGPUBqWlsJlcLF_grNClK&index=1>
 
-- Vanilla 자바스크립트 타자게임 만들기! 실전코스
+2. Vanilla 자바스크립트 타자게임 만들기! 실전코스
 
-- 사용 기술: HTML, CSS, JS
+3. 사용 기술: HTML, CSS, JS
 
-- 단어 api 사용: https://random-word-api.herokuapp.com/word?number=100 
+4. 단어 api 사용: <https://random-word-api.herokuapp.com/word?number=100>
 
-- ![default](screenshot.gif)
+5. ![default](screenshot.gif)
 
-- https://hyundai-sangho.github.io/TypingGame_js/
-
-- 소스 다운로드 후 -> npm install 실행
+6. <https://hyundai-sangho.github.io/TypingGame_js/>
